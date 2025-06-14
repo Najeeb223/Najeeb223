@@ -5,11 +5,9 @@
 
 🎮 Frontend Dev learning by building | Creator of [CSS.exe](https://cssdotexe.pages.dev/)
 
----
 
 ### 🧠 What I'm About
 
-- 🔁 Pivoted from ICT Apps Dev into frontend web dev
 - 🧰 Focused on **HTML, CSS, JavaScript**
 - 🕹️ Building retro-inspired tools to teach & master fundamentals
 - 📚 Learning by doing — currently working on localStorage, JS fetch & DOM projects
