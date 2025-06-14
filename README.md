@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-<!--
+If you can read this — the README is working!  
+If not, check your repo name, visibility, and profile settings.
 # 👋 Hi, I'm Najeeb Yusuf Abdi
 
 🎮 Frontend Dev learning by building | Creator of [CSS.exe](https://cssdotexe.pages.dev/)
@@ -42,4 +42,3 @@ GitHub Repo: [github.com/Najeeb223/css.exe](https://github.com/Najeeb223/css.exe
 - 🐙 [GitHub](https://github.com/Najeeb223)
 - 📧 najeebwarsame@gmail.com
 
--->
