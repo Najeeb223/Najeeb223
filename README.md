@@ -7,7 +7,7 @@
 
 - 🧰 Currently focused on frontend (**HTML, CSS, JavaScript**)
 - 🕹️ Building retro-inspired tools to teach & master fundamentals
-- 📚 Learning by doing — currently working on localStorage, JS fetch & DOM projects
+- 📚 Learning by doing, currently working on key JS concpets & DOM manipulation
 - 🚀 Transitioning from academic training to real-world, open-source contribution
 
 
