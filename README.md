@@ -57,14 +57,6 @@ GitHub Repo: [github.com/Najeeb223/css.exe](https://github.com/Najeeb223/css.exe
 
 ---
 
-### 🌍 Goals
-
-* 🧱 Build strong foundations in **Spring Boot, REST APIs, and database design**
-* 🔄 Contribute to open-source Spring-based projects
-* 🌐 Secure a **remote Java developer role** by 2026, Insha’Allah
-
----
-
 ### 📬 Let's Connect
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/najeeb-abdi-13b5a2284/)
