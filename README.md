@@ -1,7 +1,3 @@
-Here’s a refined and professional GitHub README tailored for your **current phase as a Java Spring Boot developer** — it keeps your authenticity while signaling your progression clearly to recruiters and collaborators:
-
----
-
 # 👨‍💻 Hi, I'm Najeeb Yusuf Abdi
 
 💡 **Java & Spring Boot Developer** | 🌍 Building impactful apps for South Africans
