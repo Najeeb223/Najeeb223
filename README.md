@@ -9,7 +9,6 @@
 
 * 💻 Currently an **intern Java developer** focused on mastering **Spring Boot** and clean architecture
 * ⚙️ Passionate about **backend engineering**, **API design**, and **problem-solving through software**
-* 🌐 Transitioned from frontend dev to full-stack builder — with a focus on **practical, real-world apps**
 * 🧩 Learning deeply through building, debugging, and refining real projects
 
 ---
