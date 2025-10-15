@@ -35,7 +35,7 @@
 
 ### 🚀 Featured Projects
 
-#### 💧 [CapeOutageWatch](https://capeoutagewatch.onrender.com/)
+#### 💧💡 [CapeOutageWatch](https://capeoutagewatch.onrender.com/)
 
 > A Progressive Web App that notifies Cape Town residents about **unplanned water outages**.
 >
