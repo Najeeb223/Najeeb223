@@ -41,7 +41,7 @@
 >
 > * Built with **Node.js, Express, SQLite**, and **Web Push API**
 > * Focused on real-world reliability and public service
-> * Evolving into a **Spring Boot**–based system for nationwide utility alerts
+> * Migrating into a **Spring Boot**–based system for a more robust backend
 
 GitHub Repo: [github.com/Najeeb223/CapeOutageWatch](https://github.com/Najeeb223/CapeOutageWatch)
 
