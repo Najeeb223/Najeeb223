@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm Najeeb Yusuf Abdi
+# Hi, I'm Najeeb Yusuf Abdi
 
 💡 **Java & Spring Boot Developer** | 🌍 Building impactful apps for South Africans
 🚀 Creator of [CapeOutageWatch](https://capeoutagewatch.onrender.com/) & [CSS.exe](https://cssdotexe.pages.dev/)
