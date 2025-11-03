@@ -1,13 +1,13 @@
 # Hi, I'm Najeeb Yusuf Abdi
 
-💡 **Java & Spring Boot Developer** | 🌍 Building impactful apps for South Africans
+💡 **Java & Spring Boot Developer** | 🌍 Looking to build impactful apps for South Africans
 🚀 Creator of [CapeOutageWatch](https://capeoutagewatch.onrender.com/) & [CSS.exe](https://cssdotexe.pages.dev/)
 
 ---
 
 ### 🧠 What I'm About
 
-* 💻 Currently an **intern Java developer** focused on mastering **Spring Boot** and clean architecture
+* 💻 Currently a **Junior Java developer** focused on mastering **Spring Boot** and clean architecture
 * ⚙️ Passionate about **backend engineering**, **API design**, and **problem-solving through software**
 * 🧩 Learning deeply through building, debugging, and refining real projects
 
