@@ -33,9 +33,9 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 💧💡 [CapeOutageWatch](https://capeoutagewatch.onrender.com/)
+#### [CapeOutageWatch](https://capeoutagewatch.onrender.com/)
 
 > A Progressive Web App that notifies Cape Town residents about **unplanned water outages**.
 >
@@ -45,7 +45,7 @@
 
 GitHub Repo: [github.com/Najeeb223/CapeOutageWatch](https://github.com/Najeeb223/CapeOutageWatch)
 
-#### 🎮 [CSS.exe](https://cssdotexe.pages.dev/)
+#### [CSS.exe](https://cssdotexe.pages.dev/)
 
 > A retro-styled learning platform for mastering CSS through interactive challenges and animations.
 >
